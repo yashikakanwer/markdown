@@ -1,3 +1,11 @@
+<!-- Navigation Bar -->
+<nav style="background: #ad8181; padding: 10px; text-align: center; font-family: Arial, sans-serif;">
+  <a href="#introduction" style="color: white; text-decoration: none; margin: 0 15px;">Introduction</a>
+  <a href="#history" style="color: white; text-decoration: none; margin: 0 15px;">History</a>
+  <a href="#variables" style="color: white; text-decoration: none; margin: 0 15px;">Variables</a>
+  <a href="#data-types" style="color: white; text-decoration: none; margin: 0 15px;">Data Types</a>
+</nav>
+
 # 🚀   "JavaScript: The Language of Modern Web Development"
 
 
@@ -122,6 +130,7 @@ ________________________________________
 ________________________________________
 #### 4. Local Scope
 •	Declaration: Same as Function Scope (within a function).
+
 •	Access: Limited to the function.
 •	Lifecycle: Created on function start, destroyed after completion.
 _
@@ -133,3 +142,5 @@ _JavaScript Hoisting refers to the process whereby the interpreter appears to mo
 
 ### **3. Conclusion**
 _JavaScript ek powerful programming language hai jo web development mein interactivity aur dynamic features add karta hai. Variables data ko store karne ka tareeka hain, aur JavaScript mein different data types, jaise objects, arrays, aur functions, hote hain jo complex data ko handle karte hain aur programming ko efficient banate hain._
+
+<!-- Footer --> <footer style="background: #333; color: white; text-align: center; padding: 10px; font-family: Arial, sans-serif; margin-top: 20px;"> <p>&copy; 2024 Yashika Kanwer. All Rights Reserved.</p> <a href="#" style="color: white; text-decoration: none; margin: 0 15px;">Privacy Policy</a> <a href="#" style="color: white; text-decoration: none; margin: 0 15px;">Terms of Service</a> <a href="#" style="color: white; text-decoration: none; margin: 0 15px;">Contact Us</a> </footer> 
